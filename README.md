@@ -12,6 +12,7 @@
 - 프레임워크 : Spring Boot
 - API 클라이언트 : Postman
 
+<br>
 ---
 
 
@@ -28,9 +29,9 @@ public class model {
 }
 ```
 → 게시글(데이터) class
+<br>
 
-
-MirimTechTalkHackathon/CreateRead/src/main/java/com/example/demo/controller/controller.java
+* MirimTechTalkHackathon/CreateRead/src/main/java/com/example/demo/controller/controller.java
 
 ```
 @RestController
@@ -50,10 +51,11 @@ private Map<String, model> Map;
 		return new ArrayList<model>(Map.values());
 	}
 	
-	@PutMapping("/create/{id}")
+	@PutMapping("/create/{id}") //데이터 추가하기
 	public void putData(@PathVariable("id") String id, @RequestParam("title") String title, @RequestParam("description") String description) {
 		model user=new model(title,description);	
 		Map.put(id, user); 
 	}
 }
 ```
+<br>
