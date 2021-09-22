@@ -59,3 +59,7 @@ private Map<String, model> Map;
 }
 ```
 <br>
+<br>
+---
+#### 사용예시(사용방법)
+
