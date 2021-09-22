@@ -11,3 +11,17 @@
 - JAVA
 - 프레임워크 : Spring Boot
 - API 클라이언트 : Postman
+
+---
+
+##### 작성 코드 설명
+MirimTechTalkHackathon/CreateRead/src/main/java/com/example/demo/dataModel/model.java
+
+```
+public class model {
+	private String title;
+	private String description;
+	
+	...
+}
+```
