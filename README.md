@@ -2,12 +2,12 @@
 미림 테크톡 해커톤 / Create, Read API
 
 
-##### 구현기능
+#### 구현기능
 - Create : 게시글 만들기
 - Read : 게시글 리스트 불러오기
 
 
-##### 사용언어
+#### 사용언어
 - JAVA
 - 프레임워크 : Spring Boot
 - API 클라이언트 : Postman
@@ -16,7 +16,7 @@
 ---
 
 
-#### 작성 코드 설명
+### 작성 코드 설명
 
 * MirimTechTalkHackathon/CreateRead/src/main/java/com/example/demo/dataModel/model.java
 
@@ -61,7 +61,7 @@ private Map<String, model> Map;
 
 
 ---
-#### 사용예시(사용방법)
+### 사용예시(사용방법)
 Postman 사용
 * Read
 ![readURL](https://user-images.githubusercontent.com/81640695/134329032-1b8c1180-65bb-47db-902b-fdaf18c08bdf.png)
