@@ -12,7 +12,7 @@
 - 프레임워크 : Spring Boot
 - API 클라이언트 : Postman
 
-<br>
+
 ---
 
 
@@ -58,8 +58,8 @@ private Map<String, model> Map;
 	}
 }
 ```
-<br>
-<br>
+
+
 ---
 #### 사용예시(사용방법)
 
