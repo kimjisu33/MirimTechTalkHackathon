@@ -62,4 +62,12 @@ private Map<String, model> Map;
 
 ---
 #### 사용예시(사용방법)
+* Read
+![readURL](https://user-images.githubusercontent.com/81640695/134329032-1b8c1180-65bb-47db-902b-fdaf18c08bdf.png)
+![readResult](https://user-images.githubusercontent.com/81640695/134329370-b87eab21-17c1-41c8-bed0-2a0c74716961.png)
+![readResultChrome](https://user-images.githubusercontent.com/81640695/134329411-9f567098-7700-4e4c-8ad5-e53dc193d447.PNG)
 
+
+* Create
+![createURL](https://user-images.githubusercontent.com/81640695/134329605-409abe9e-9bec-4d5c-8ab8-5ec0adabfa88.png)
+![afterCreate](https://user-images.githubusercontent.com/81640695/134329627-f5295504-ac98-4c63-befe-906854cca72e.png)
